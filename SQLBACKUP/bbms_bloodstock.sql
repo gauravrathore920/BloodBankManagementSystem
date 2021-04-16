@@ -37,7 +37,7 @@ CREATE TABLE `bloodstock` (
 
 LOCK TABLES `bloodstock` WRITE;
 /*!40000 ALTER TABLE `bloodstock` DISABLE KEYS */;
-INSERT INTO `bloodstock` VALUES (1,'O+',100,'9634671824'),(2,'O-',50,NULL),(3,'A+',100,NULL),(4,'A-',90,NULL),(5,'B+',160,NULL),(6,'B-',110,NULL),(7,'AB+',90,NULL),(8,'AB-',120,NULL);
+INSERT INTO `bloodstock` VALUES (1,'O+',100,'924'),(2,'O-',50,NULL),(3,'A+',100,NULL),(4,'A-',90,NULL),(5,'B+',160,NULL),(6,'B-',110,NULL),(7,'AB+',90,NULL),(8,'AB-',120,NULL);
 /*!40000 ALTER TABLE `bloodstock` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
