@@ -40,7 +40,7 @@ CREATE TABLE `bloodrequest` (
 
 LOCK TABLES `bloodrequest` WRITE;
 /*!40000 ALTER TABLE `bloodrequest` DISABLE KEYS */;
-INSERT INTO `bloodrequest` VALUES (1,'gaurav Rathore','9634671824','A+','Bengaluru','gaurav.rathore.10690@gmail.com','APPROVED'),(2,'pooja Ghimire','1234567890','B+','Bengaluru','poojaghimire.777@gmail.com','APPROVED'),(3,'jaya Verma','07906863992','A+','flat numbber 002 bareilly','gaurav.rathore.10690@gmail.com','PENDING'),(4,NULL,'07906863992','B+','Bareilly','gaurav.rathore.10690@gmail.com','REJECTED'),(5,'Vaibhav agarwal','07906863992','A+','Bareilly','gaurav.rathore.10690@gmail.com','PENDING'),(6,'pooja','07906863992','A+','bareiily','noteon.bg@gmail.com','APPROVED');
+INSERT INTO `bloodrequest` VALUES (1,'gaurav Rathore','91234561824','A+','Bengaluru','gaurav.rathore@gmail.com','APPROVED'),(2,'Ghimire','1234567890','B+','Bengaluru','poojaghimir@gmail.com','APPROVED'),(3,'jaya Verma','0790992','A+','flat numbber 002 bareilly','gaurav.rathore@gmail.com','PENDING'),(4,NULL,'079092','B+','Bareilly','gaurav.rathore@gmail.com','REJECTED'),(5,'Vaibhav agarwal','02','A+','Bareilly','gaurav.rathore@gmail.com','PENDING'),(6,'pooja','0792','A+','bareiily','noteon.bg@gmail.com','APPROVED');
 /*!40000 ALTER TABLE `bloodrequest` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
