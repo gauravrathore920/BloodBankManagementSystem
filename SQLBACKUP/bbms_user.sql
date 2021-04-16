@@ -39,7 +39,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'admin','admin','admin','9634671824','gauravrathore920@gmail.com'),(2,'user','user','user',NULL,NULL),(3,'agrawalradhika','user','radhika','1234156789','gauravrathoretyui');
+INSERT INTO `user` VALUES (1,'admin','admin','admin','924','gauravratho@gmail.com'),(2,'user','user','user',NULL,NULL),(3,'agdhika','user','raa','1234156789','gauravrathoretyui');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
